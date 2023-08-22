@@ -1,0 +1,22 @@
+.result-section {
+  overflow: auto;
+  height: 50vh;
+}
+
+.result-section > table {
+  text-align: center;
+}
+
+.result-section > table > thead {
+  background-color: rgba(0, 0, 0, 0.1);
+}
+
+.result-section > table > thead > tr > th {
+  padding: 10px 15px;
+  border: 1px solid #aaa;
+}
+
+.result-section > table > tbody > tr > td {
+  padding: 10px 15px;
+  border: 1px solid #aaa;
+}

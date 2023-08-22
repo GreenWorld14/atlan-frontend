@@ -1,0 +1,5 @@
+export const TABLE_LIST_DATA = "TABLE_LIST_DATA";
+export const TABLE_RESULT_DATA = "TABLE_RESULT_DATA";
+export const ERROR_FLAG = "ERROR_FLAG";
+export const DATA_LOADING = "DATA_LOADING";
+export const TABLE_LIST_LOADING = "TABLE_LIST_LOADING";
